@@ -1,0 +1,2 @@
+DATABASE = 'database.db'
+TOKEN = '6100292322:AAFVgaWXwYuFB2gCaEsaBrBnrPzB7BPBPjU'
